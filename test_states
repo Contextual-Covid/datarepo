@@ -1,0 +1,16 @@
+state,state_po,state_fips,regon
+ARKANSAS,AR,5,South
+VIRGINIA,VA,51,South
+KENTUCKY,KY,21,South
+GEORGIA,GA,13,South
+OKLAHOMA,OK,40,South
+NEW MEXICO,NM,35,West
+UTAH,UT,49,West
+MONTANA,MT,30,West
+OREGON,OR,41,West
+MINNESOTA,MN,27,Midwest
+KANSAS,KS,20,Midwest
+NEBRASKA,NE,31,Midwest
+MASSACHUSETTS,MA,25,Northeast
+VERMONT,VT,50,Northeast
+NEW JERSEY,NJ,34,Northeast
