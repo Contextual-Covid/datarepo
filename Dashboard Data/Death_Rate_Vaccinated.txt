@@ -1,0 +1,3 @@
+Vaccination_Status,Rate_100K_Avg
+Un-vaccinated,394.963067	
+Fully Vaccinated,55.4185215
